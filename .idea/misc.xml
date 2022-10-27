@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyHomeWork/TestUsbDemo/app/src/main/res/drawable/button_pattern.xml" value="0.208" />
+        <entry key="..\:/MyHomeWork/TestUsbDemo/app/src/main/res/drawable/button_selector.xml" value="0.208" />
+        <entry key="..\:/MyHomeWork/TestUsbDemo/app/src/main/res/layout/activity_main.xml" value="0.35054347826086957" />
+        <entry key="..\:/MyHomeWork/TestUsbDemo/app/src/main/res/layout/activity_send_type_one.xml" value="0.35054347826086957" />
+        <entry key="..\:/MyHomeWork/TestUsbDemo/app/src/main/res/layout/activity_usb_point_command.xml" value="0.33" />
+        <entry key="..\:/MyHomeWork/TestUsbDemo/app/src/main/res/layout/activity_usbcamera.xml" value="0.35054347826086957" />
+        <entry key="..\:/MyHomeWork/TestUsbDemo/app/src/main/res/layout/main.xml" value="0.19782168186423504" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
